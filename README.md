@@ -1,1 +1,1 @@
-# OCR from Scratch with Computer Vision
+# ASL Detection with Computer Vision and Deep Learning
